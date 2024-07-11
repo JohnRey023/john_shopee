@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.sign-up{
+    display: flex;
+    justify-content: right;
+    margin: 20px;
+}
+.sign-up a{
+    text-decoration: none;
+    color: white;
+}
+
+.sign-up button{
+    background-color: aqua;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.sign-up-form{
+    margin-top: 30px;
+}
+
+.sign-up-form h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+
+.error-msg{
+    color: red;
+}
+
+
+.customer-header h1{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+
+.table-content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
